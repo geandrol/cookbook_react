@@ -13,7 +13,7 @@
 3. <a href="03.md">Projeto Blog Pessoal - Criando o Projeto com o Vite</a>
 4. <a href="04.md">Projeto Blog Pessoal - Criando o Componente Home</a>
 5. <a href="05.md">Introdução ao Material UI (MUI)</a>
-6. <a href="06.md">Projeto Blog Pessoal - Criando os Componentes Nabar e Footer</a>
+6. <a href="06.md">Projeto Blog Pessoal - Criando os Componentes Navbar e Footer</a>
 7. <a href="07.md">Projeto Blog Pessoal - Inserindo as Rotas</a>
 8. <a href="08.md">Projeto Blog Pessoal - Criando o Componente Login</a>
 9. <a href="09.md">Projeto Blog Pessoal - Criando o Componente Cadastrar Usuário</a>
