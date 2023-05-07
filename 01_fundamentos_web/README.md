@@ -9,11 +9,11 @@
 
 1. <a href="01_html/01.md">Introdução ao HTML</a>
 2. <a href="01_html/02.md">Página HTML padrão</a>
-3. <a href="01_html/03.md"></a>
-4. <a href="01_html/04.md"></a>
-5. <a href="01_html/05.md"></a>
-6. <a href="01_html/06.md"></a>
-7. <a href="01_html/07.md"></a>
+3. <a href="01_html/03.md">Tags de Texto</a>
+4. <a href="01_html/04.md">Tags de Título</a>
+5. <a href="01_html/05.md">Tags de Lista</a>
+6. <a href="01_html/06.md">Tags de Link</a>
+7. <a href="01_html/07.md">Tags de Estrutura da Página</a>
 8. <a href="01_html/08.md"></a>
 9. <a href="01_html/09.md"></a>
 10. <a href="01_html/10.md"></a>
