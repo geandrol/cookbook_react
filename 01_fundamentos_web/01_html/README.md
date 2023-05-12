@@ -9,15 +9,15 @@
 
 1. <a href="01.md">Introdução ao HTML</a>
 2. <a href="02.md">Página HTML padrão</a>
-3. <a href="03.md">Tags de Texto</a>
-4. <a href="/04.md">Tags de Título</a>
-5. <a href="/05.md">Tags de Lista</a>
-6. <a href="06.md">Tags de Imagens</a>
-7. <a href="07.md">Tags de Link</a>
-8. <a href="08.md">Tags de Estruturais</a>
+3. <a href="08.md">Tags Estruturais</a>
+4. <a href="10.md">Classes e Identificadores</a>
+5. <a href="03.md">Tags de Texto</a>
+6. <a href="/05.md">Tags de Lista</a>
+7. <a href="/04.md">Tags de Título</a>
+8. <a href="06.md">Tags de Imagens</a>
 9. <a href="09.md">Tags de Multimídia</a>
-10. <a href="10.md">Tags de Formulário</a>
-11. <a href="11.md">Tags de Tabela</a>
+10. <a href="07.md">Tags de Link</a>
+11. <a href="11.md">Tags de Formulário</a>
 
 <br /><br />
 	

@@ -5,57 +5,27 @@
 
 <h2><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Frontend - Fundamentos WEB</h2>
 
-<h2><img src="https://i.imgur.com/WDbGBIA.png" title="source: imgur.com" width="35px"/> HTML</h2>
+<br />
 
-1. <a href="01_html/01.md">Introdução ao HTML</a>
-2. <a href="01_html/02.md">Página HTML padrão</a>
-3. <a href="01_html/03.md">Tags de Texto</a>
-4. <a href="01_html/04.md">Tags de Título</a>
-5. <a href="01_html/05.md">Tags de Lista</a>
-6. <a href="01_html/06.md">Tags de Link</a>
-7. <a href="01_html/07.md">Tags de Estrutura da Página</a>
-8. <a href="01_html/08.md"></a>
-9. <a href="01_html/09.md"></a>
-10. <a href="01_html/10.md"></a>
 
 <h2><img src="https://i.imgur.com/7IdCTXz.png" title="source: imgur.com" width="35px"/> CSS</h2>
 
-1. <a href="02_css/01.md"></a>
-2. <a href="02_css/02.md"></a>
-3. <a href="02_css/03.md"></a>
-4. <a href="02_css/04.md"></a>
-5. <a href="02_css/05.md"></a>
-6. <a href="02_css/06.md"></a>
-7. <a href="02_css/07.md"></a>
-8. <a href="02_css/08.md"></a>
-9. <a href="02_css/09.md"></a>
-10. <a href="02_css/10.md"></a>
+1. <a href="01.md">Introdução</a>
+2. <a href="02.md">Blocos CSS</a>
+3. <a href="03.md">Seletores</a>
+4. <a href="04.md">Unidades de Medida</a>
+5. <a href="05.md">Estilização do Layout</a>
+6. <a href="06.md">Cores</a>
+7. <a href="07.md">Estilização de Texto</a>
+8. <a href="08.md">Listas</a>
+9. <a href="09.md">Imagens</a>
+10. <a href="10.md">Links</a>
+11. <a href="11.md">Flexbox</a>
+12. <a href="12.md">Grid Layout</a>
+13. <a href="13.md">Formulários</a>
+14. <a href="14.md">Pseudo Classes e Pseudo Elementos</a>
 
-<h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="35px"/> JavaScript</h2>
 
-1. <a href="03_js/01.md"></a>
-2. <a href="03_js/02.md"></a>
-3. <a href="03_js/03.md"></a>
-4. <a href="03_js/04.md"></a>
-5. <a href="03_js/05.md"></a>
-6. <a href="03_js/06.md"></a>
-7. <a href="03_js/07.md"></a>
-8. <a href="03_js/08.md"></a>
-9. <a href="03_js/09.md"></a>
-10. <a href="03_js/10.md"></a>
-
-<h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="35px"/> TypeScript</h2>
-
-1. <a href="03_ts/01.md"></a>
-2. <a href="03_ts/02.md"></a>
-3. <a href="03_ts/03.md"></a>
-4. <a href="03_ts/04.md"></a>
-5. <a href="03_ts/05.md"></a>
-6. <a href="03_ts/06.md"></a>
-7. <a href="03_ts/07.md"></a>
-8. <a href="03_ts/08.md"></a>
-9. <a href="03_ts/09.md"></a>
-10. <a href="03_ts/10.md"></a>
 
 <br /><br />
 	
