@@ -12,7 +12,8 @@
 2. <a href="02.md" >Primeiros passos com o React</a>
 3. <a href="03.md">Projeto Blog Pessoal - Criando o Projeto com o Vite</a>
 4. <a href="04.md">Projeto Blog Pessoal - Criando o Componente Home</a>
-5. <a href="05-1.md">Introdução ao Tailwind</a>
+5. <a href="05.md">Introdução a Props, Hooks e Renderização Condicional</a>
+6. <a href="06.md">Introdução ao Tailwind</a>
 6. <a href="05.md">Instalação e Configuração do Tailwind</a>
 7. <a href="06.md">Projeto Blog Pessoal - Criando os Componentes Navbar e Footer</a>
 8. <a href="07.md">Projeto Blog Pessoal - Inserindo as Rotas</a>
