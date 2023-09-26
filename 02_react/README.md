@@ -24,13 +24,11 @@
 14. <a href="14.md">Projeto Blog Pessoal - Integração com a API - Model</a>
 15. <a href="15.md">Projeto Blog Pessoal - Integração com a API - Services</a>
 16. <a href="16.md">Projeto Blog Pessoal - Implementando o Login</a>
-17. 
-18. <a href="12.md">Projeto Blog Pessoal - Implementando o Cadastro do Usuário</a>
-19. <a href="13.md" >Projeto Blog Pessoal - Criando o Componente Listar Temas</a>
-20. <a href="14.md" >Projeto Blog Pessoal - Criar o Componente Listar Postagens</a>
-21. <a href="15.md">Projeto Blog Pessoal - Criar o Componente Tab Postagens</a>
-22. <a href="16.md" >Projeto Blog Pessoal - </a>
-23. <a href="17.md" >Projeto Blog Pessoal - </a>
+17. <a href="17.md">Projeto Blog Pessoal - Implementando o Cadastro do Usuário</a>
+18. 
+19. <a href="" >Projeto Blog Pessoal - Criando o Componente Listar Temas</a>
+20. <a href="" >Projeto Blog Pessoal - Criar o Componente Listar Postagens</a>
+21. <a href="">Projeto Blog Pessoal - Criar o Componente Tab Postagens</a>
 
 <br /><br />
 	
