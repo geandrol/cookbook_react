@@ -27,10 +27,13 @@
 17. <a href="17.md">Projeto Blog Pessoal - Implementando o Cadastro do Usuário</a>
 18. <a href="18.md" >Projeto Blog Pessoal - Criando o Componente Card e Lista Temas</a>
 19. 
-20. <a href="" >Projeto Blog Pessoal - Criando o Componente Formulário Temas</a>
-21. <a href="" >Projeto Blog Pessoal - Criando o Componente Deletar Tema</a>
-22. <a href="" >Projeto Blog Pessoal - Criando o Componente Card e Lista Postagens</a>
-23. <a href="">Projeto Blog Pessoal - Criar o Componente Tab Postagens</a>
+20. <a href="20.md" >Projeto Blog Pessoal - Criando o Componente Formulário Temas</a>
+21. 
+22. <a href="" >Projeto Blog Pessoal - Criando o Componente Deletar Tema</a>
+23. 
+24. <a href="" >Projeto Blog Pessoal - Criando o Componente Card e Lista Postagens</a>
+25. 
+26. <a href="">Projeto Blog Pessoal - Criar o Componente Tab Postagens</a>
 
 <br /><br />
 	
