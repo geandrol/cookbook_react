@@ -32,7 +32,7 @@
 22. <a href="22.md">Projeto Blog Pessoal - Criando o Componente Deletar Tema</a>
 23. <a href="23.md">Projeto Blog Pessoal - Implementando o Componente Deletar Tema</a>
 24. <a href="24.md" >Projeto Blog Pessoal - Criando o Componente Card e Lista Postagens</a>
-25. 
+25. <a href="25.md" >Projeto Blog Pessoal - Implementando o Componente Card e Lista Postagens</a>
 26. <a href="26.md" >Projeto Blog Pessoal - Criando o Componente Formulário Postagens</a>
 27. 
 28. <a href="28.md">Projeto Blog Pessoal - Criando o Componente Deletar Postagem</a>
