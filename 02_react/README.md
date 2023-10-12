@@ -37,6 +37,9 @@
 27. <a href="27.md" >Projeto Blog Pessoal - Implementando o Componente Formulário Postagens</a>
 28. <a href="28.md">Projeto Blog Pessoal - Criando o Componente Deletar Postagem</a>
 29. <a href="29.md">Projeto Blog Pessoal - Implementando o Componente Deletar Postagem</a>
+30. <a href="30.md">Projeto Blog Pessoal - Construindo e Implementando a Página de Perfil</a>
+31. <a href="31.md">Projeto Blog Pessoal - Ajustes Finais</a>
+32. <a href="32.md">Projeto Blog Pessoal - Deploy</a>
 
 <br /><br />
 	
