@@ -1,13 +1,11 @@
-<div align="center">
+<!-- <div align="center">
     <img src="https://i.imgur.com/AzshGmS.png" title="source: imgur.com" width="50%"/> 
 </div>
-<h1><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="40px"/>Bootcamp - Java Full Stack </h1>
+<h1><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="40px"/>Bootcamp - Java Full Stack </h1> -->
 
 <h2><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Frontend - React</h2>
 
-
-
-0. <a href="00.md" >Preparando o Ambiente</a>
+<!-- 0. <a href="00.md" >Preparando o Ambiente</a> -->
 1. <a href="01.md" >Introdução ao React</a>
 2. <a href="02.md" >Primeiros passos com o React</a>
 3. <a href="03.md">Projeto Blog Pessoal - Criando o Projeto com o Vite</a>
