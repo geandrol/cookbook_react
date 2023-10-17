@@ -1,7 +1,7 @@
-<!-- <div align="center">
+<div align="center">
     <img src="https://i.imgur.com/AzshGmS.png" title="source: imgur.com" width="50%"/> 
 </div>
-<h1><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="40px"/>Bootcamp - Java Full Stack </h1> -->
+<!-- <h1><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="40px"/>Bootcamp - Java Full Stack </h1> -->
 
 <h2><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Frontend - React</h2>
 
