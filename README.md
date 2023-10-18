@@ -14,7 +14,8 @@
         <td><a href="01_fundamentos_web/README.md">Fundamentos WEB</a></td>
     </tr> -->
     <tr>
-        <td><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" /></td>
+        <td width="15%"><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" /></td>
         <td><a href="02_react/README.md">React</a></td>
     </tr>
 </table>
+
