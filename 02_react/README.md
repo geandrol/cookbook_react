@@ -37,7 +37,8 @@
 29. <a href="29.md">Projeto Blog Pessoal - Implementando o Componente Deletar Postagem</a>
 30. <a href="30.md">Projeto Blog Pessoal - Construindo e Implementando a Página de Perfil</a>
 31. <a href="31.md">Projeto Blog Pessoal - Ajustes Finais</a>
-32. <a href="32.md">Projeto Blog Pessoal - Deploy</a>
+32. <a href="32.md">Projeto Blog Pessoal - Deploy no Vercel</a>
+33. <a href="33.md">Projeto Integrador - Deploy no Netlify</a>
 
 <br /><br />
 	
